@@ -8,7 +8,6 @@ int main()
 
 	//more functions
 	
-	//bugs and bugs
 
 	//blah blah blah
 	
