@@ -2,9 +2,8 @@
 
 int main()
 {
-	//some new other random code
-	
-	//more lines
+	//functions
+	//more functions
 	
 	//blah blah blah
 	
