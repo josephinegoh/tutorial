@@ -2,13 +2,13 @@
 
 int main()
 {
+<<<<<<< HEAD
 //functions and more functions
 //and more and more functions
 
 	//more functions
 	
-	//more things
-	
+
 	//blah blah blah
 	
 	//bleh bleh bleh
